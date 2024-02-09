@@ -1,3 +1,5 @@
+# Citation 1: Yoon, H.N., Marshall, L., Sharma, A. and Kim, S., 2022. Bayesian model calibration using surrogate streamflow in ungauged catchments. Water Resources Research, 58(1), p.e2021WR031287.
+# Citation 2: Yoon, H.N., Marshall, L. and Sharma, A., 2023. Beyond river discharge gauging: hydrologic predictions using remote sensing alone. Environmental Research Letters, 18(3), p.034015.
 # SRM_SAMPLE: This document serves as the primary guide for utilizing the functions within SRM_SAMPLE. It outlines the necessary steps for invoking these functions effectively.
 # Required packages: Prior to usage, ensure that all necessary packages are installed and properly loaded into your working environment.
 # This package employs SMOS L3SM data for its operations. To download the data, users must have valid credentials, which include a username and password. These credentials are available from the following URL: https://sextant.ifremer.fr/Donnees/Catalogue#/metadata/8db7102b-1b22-4db3-949d-e51269417aae.
