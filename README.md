@@ -1,2 +1,3 @@
 # SRM_SAMPLE: This document serves as the primary guide for utilizing the functions within SRM_SAMPLE. It outlines the necessary steps for invoking these functions effectively.
 # Required packages: Prior to usage, ensure that all necessary packages are installed and properly loaded into your working environment.
+# This package employs SMOS L3SM data for its operations. To download the data, users must have valid credentials, which include a username and password. These credentials are available from the following URL: https://sextant.ifremer.fr/Donnees/Catalogue#/metadata/8db7102b-1b22-4db3-949d-e51269417aae.
