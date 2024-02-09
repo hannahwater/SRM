@@ -1,3 +1,9 @@
+#' Set FTP Connection Details
+#'
+#' This function sets the FTP connection details.
+#' The necessary credentials, including the username and password, are accessible at https://sextant.ifremer.fr/Donnees/Catalogue#/metadata/8db7102b-1b22-4db3-949d-e51269417aae")
+#'
+
 set_ftp <- function(year, month) {
   ftp_server <- "ftp.ifremer.fr"
   username <- "ext-catds-cpdc"
